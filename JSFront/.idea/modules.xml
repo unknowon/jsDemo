@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../JSAdmin/JSAdmin.iml" filepath="$PROJECT_DIR$/../JSAdmin/JSAdmin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JSDAO/JSDAO.iml" filepath="$PROJECT_DIR$/../JSDAO/JSDAO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JSDTO/JSDTO.iml" filepath="$PROJECT_DIR$/../JSDTO/JSDTO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JSFront.iml" filepath="$PROJECT_DIR$/JSFront.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JSService/JSService.iml" filepath="$PROJECT_DIR$/../JSService/JSService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JSTools/JSTools.iml" filepath="$PROJECT_DIR$/../JSTools/JSTools.iml" />
+    </modules>
+  </component>
+</project>

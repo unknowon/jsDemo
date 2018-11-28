@@ -1,0 +1,1406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="JSAdmin:war exploded" />
+      <artifact name="JSFront:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="87689faf-acf4-4539-b88d-15c02bd5f19e" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JSFront" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ExcelUtils.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../JSTools/src/gov/js/tools/ExcelUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Functions.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../JSTools/src/gov/js/tools/Functions.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PagerTag.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../JSTools/src/gov/js/tools/PagerTag.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SelectTag.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../JSTools/src/gov/js/tools/SelectTag.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestUtils.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../JSTools/src/gov/js/tools/TestUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TrimHttpRequest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../JSTools/src/gov/js/tools/TrimHttpRequest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VerifyCodeUtils.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../JSTools/src/gov/js/tools/VerifyCodeUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="62" column="7" selection-start-line="62" selection-start-column="7" selection-end-line="62" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bannerAdd.jsp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../JSAdmin/web/WEB-INF/banner/bannerAdd.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+              <folding>
+                <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../JSAdmin/web/WEB-INF/header.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="42" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Ueditor.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../JSAdmin/web/WEB-INF/Ueditor.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="29" column="48" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>上传失败</find>
+      <find>bannerUrl</find>
+      <find>System.out.println</find>
+      <find>服务器</find>
+      <find>ueditor/</find>
+      <find>D:</find>
+      <find>Format&quot;: &quot;ueditor/</find>
+      <find>JSAdmin/</find>
+      <find>size</find>
+      <find>/JSAdmin</find>
+      <find>getPath</find>
+      <find>rootpath</find>
+      <find>rootPath</find>
+      <find>listimage</find>
+      <find>&lt;%=ctxPath%&gt;</find>
+      <find>static/h-ui/</find>
+      <find>&lt;audio controls=&quot;controls&quot; style=&quot;display: none;&quot;&gt;&lt;/audio&gt;</find>
+      <find>serializeArray</find>
+      <find>content</find>
+      <find>audio</find>
+      <find>controls</find>
+      <find>d&gt;&gt;</find>
+      <find>../../</find>
+      <find>/fl.bg.png</find>
+      <find>assets/lib</find>
+      <find>upda</find>
+      <find>caliber</find>
+      <find>btnSearch</find>
+      <find>private</find>
+      <find>regionname</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>gov.js</replace>
+      <replace>&lt;%=ctxPath %&gt;/assets</replace>
+      <replace>&lt;%=ctxPath %&gt;</replace>
+      <replace>report</replace>
+      <replace>&lt;%=ctxPath %&gt;/Article?action=list&amp;typeId=</replace>
+      <replace>&lt;%=ctxPath %&gt;/Article?action=articleList</replace>
+      <replace>req</replace>
+      <replace>id=&quot;input&quot; name=&quot;input</replace>
+      <replace>input10</replace>
+      <replace>input11</replace>
+      <replace>input15</replace>
+      <replace>input13</replace>
+      <replace>articles</replace>
+      <replace>/JSAdmin/ueditor/</replace>
+      <replace>Format&quot;: &quot;/ueditor/</replace>
+      <replace>Company</replace>
+      <replace>&lt;%=ctxPath%&gt;</replace>
+      <replace>&lt;%=ctxPath%&gt;/</replace>
+      <replace>static</replace>
+      <replace>libFront</replace>
+      <replace>public</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/gov/js/front/servlet/ApplicationServlet.java" />
+        <option value="$PROJECT_DIR$/src/gov/js/front/servlet/ArticleServlet.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/application/applicationAdd.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/article/article.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/article/articleAdd.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/notice/noticeView.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/report/reportAdd1.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/report/reportAdd2.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/report/reportAdd3.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/report/reportFind.jsp" />
+        <option value="$PROJECT_DIR$/src/gov/js/front/servlet/ReportServlet.java" />
+        <option value="$PROJECT_DIR$/../JSAdmin/web/WEB-INF/Login.jsp" />
+        <option value="$PROJECT_DIR$/../JSAdmin/src/gov/js/admin/servlet/BannerServlet.java" />
+        <option value="$PROJECT_DIR$/../JSAdmin/web/WEB-INF/article/articleAdd.jsp" />
+        <option value="$PROJECT_DIR$/../JSAdmin/web/WEB-INF/article/articleList.jsp" />
+        <option value="$PROJECT_DIR$/../JSAdmin/src/gov/js/admin/servlet/ArticleServlet.java" />
+        <option value="$PROJECT_DIR$/../JSAdmin/web/WEB-INF/article/articleView.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/article/articleView.jsp" />
+        <option value="$PROJECT_DIR$/../JSDAO/src/gov/js/dao/ReportDAO.java" />
+        <option value="$PROJECT_DIR$/../JSService/src/gov/js/service/NoticeService.java" />
+        <option value="$PROJECT_DIR$/../JSDAO/src/gov/js/dao/NoticeDAO.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/center.jsp" />
+        <option value="$PROJECT_DIR$/../JSAdmin/web/WEB-INF/report/reportList.jsp" />
+        <option value="$PROJECT_DIR$/../JSDAO/src/gov/js/dao/ArticleDAO.java" />
+        <option value="$PROJECT_DIR$/../JSAdmin/web/WEB-INF/report/notResidentAdd4xls.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/index.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/Login.jsp" />
+        <option value="$PROJECT_DIR$/src/gov/js/front/servlet/IndexServlet.java" />
+        <option value="$PROJECT_DIR$/../JSAdmin/web/WEB-INF/index.jsp" />
+        <option value="$PROJECT_DIR$/../JSDTO/src/gov/js/dto/NotResidentDTO.java" />
+        <option value="$PROJECT_DIR$/../JSAdmin/src/gov/js/admin/servlet/ReportServlet.java" />
+        <option value="$PROJECT_DIR$/../JSDAO/src/gov/js/dao/NotResidentDAO.java" />
+        <option value="$PROJECT_DIR$/../JSService/src/gov/js/service/NotResidentService.java" />
+        <option value="$PROJECT_DIR$/../JSAdmin/src/gov/js/admin/servlet/companyServlet.java" />
+        <option value="$PROJECT_DIR$/../JSAdmin/web/WEB-INF/company/companyAdd4NotResident.jsp" />
+        <option value="$PROJECT_DIR$/../JSAdmin/web/WEB-INF/report/notResidentList.jsp" />
+        <option value="$PROJECT_DIR$/web/assets/lib/ueditor/1.4.3/jsp/config.json" />
+        <option value="$PROJECT_DIR$/../JSAdmin/web/lib/ueditor/1.4.3/jsp/config.json" />
+        <option value="$PROJECT_DIR$/../JSAdmin/src/gov/js/admin/utils/WcfD.java" />
+        <option value="$PROJECT_DIR$/../JSAdmin/src/gov/js/admin/utils/WcfResult.java" />
+        <option value="$PROJECT_DIR$/../JSAdmin/src/gov/js/admin/utils/WcfAPI.java" />
+        <option value="$PROJECT_DIR$/../JSAdmin/src/gov/js/admin/servlet/TestScServlet.java" />
+        <option value="$PROJECT_DIR$/../JSAdmin/src/gov/js/admin/servlet/IndexServlet.java" />
+        <option value="$PROJECT_DIR$/../JSAdmin/web/WEB-INF/testSc.jsp" />
+        <option value="$PROJECT_DIR$/src/gov/js/front/servlet/CarShopServlet.java" />
+        <option value="$PROJECT_DIR$/../JSAdmin/src/test/gov/js/admin/utils/WcfAPITest.java" />
+        <option value="$PROJECT_DIR$/../JSAdmin/src/gov/js/admin/servlet/TestTest.java" />
+        <option value="$PROJECT_DIR$/../JSService/src/gov/js/service/ArticleService.java" />
+        <option value="$PROJECT_DIR$/../JSAdmin/src/test/gov/js/admin/servlet/TestTestTest.java" />
+        <option value="$PROJECT_DIR$/../JSAdmin/src/log4j2.xml" />
+        <option value="$PROJECT_DIR$/../JSDTO/src/gov/js/dto/AdminUserDTO.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="checksumPolicy" value="FAIL" />
+        <option name="failureBehavior" value="FAST" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="30" />
+    <option name="y" value="95" />
+    <option name="width" value="1890" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JSFront" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSAdmin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSFront" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSAdmin" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSFront" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSAdmin" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSFront" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSAdmin" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="banner" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/gitTestPrj" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/web/WEB-INF/lib/poi-3.17.jar" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ideaWorkSpace\govjs\JSAdmin\web\WEB-INF\company" />
+      <recent name="D:\ideaWorkSpace\govjs\JSAdmin\web\WEB-INF\report" />
+      <recent name="D:\ideaWorkSpace\govjs\JSAdmin\web\WEB-INF\article" />
+      <recent name="D:\ideaWorkSpace\govjs\JSAdmin\web\WEB-INF\application" />
+      <recent name="D:\ideaWorkSpace\govjs\JSFront\web\WEB-INF\lib" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="gov.js.admin.servlet" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ideaWorkSpace\govjs\JSFront\web\WEB-INF\notice" />
+      <recent name="D:\ideaWorkSpace\govjs\JSAdmin\web\WEB-INF" />
+      <recent name="D:\ideaWorkSpace\govjs\JSFront\web\WEB-INF" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.tomcat 8.5.31">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="ReportServiceTest.getfirstDayOfNextQuarter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JSService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.gov.js.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="test.gov.js.service" />
+      <option name="MAIN_CLASS_NAME" value="test.gov.js.service.ReportServiceTest" />
+      <option name="METHOD_NAME" value="getfirstDayOfNextQuarter" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="ReportServiceTest.getfirstDayOfNowQuarter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JSService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.gov.js.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="test.gov.js.service" />
+      <option name="MAIN_CLASS_NAME" value="test.gov.js.service.ReportServiceTest" />
+      <option name="METHOD_NAME" value="getfirstDayOfNowQuarter" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="ReportServiceTest.testGetFirstDayOfNextMonth" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JSService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.gov.js.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="test.gov.js.service" />
+      <option name="MAIN_CLASS_NAME" value="test.gov.js.service.ReportServiceTest" />
+      <option name="METHOD_NAME" value="testGetFirstDayOfNextMonth" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="TestTestTest.testGetMsg" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JSAdmin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.gov.js.admin.servlet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="test.gov.js.admin.servlet" />
+      <option name="MAIN_CLASS_NAME" value="test.gov.js.admin.servlet.TestTestTest" />
+      <option name="METHOD_NAME" value="testGetMsg" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="WcfAPITest.testGroupByCountyTotal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JSAdmin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.gov.js.admin.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="test.gov.js.admin.utils" />
+      <option name="MAIN_CLASS_NAME" value="test.gov.js.admin.utils.WcfAPITest" />
+      <option name="METHOD_NAME" value="testGroupByCountyTotal" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="Tomcat 8.0.36" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.31" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER" value="false" />
+      <deployment>
+        <artifact name="JSAdmin:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/JSAdmin" />
+          </settings>
+        </artifact>
+        <artifact name="JSFront:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/JSFront" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_8_0_36_JSFront_2" />
+        <option name="DEPLOY_TOMCAT_APPS" value="true" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="63436" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="JSAdmin:war exploded" />
+          <artifact name="JSFront:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="newTomcat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.31" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="JSAdmin:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/JSAdmin" />
+          </settings>
+        </artifact>
+        <artifact name="JSFront:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/JSFront" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_JSFront_2" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="50635" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="JSAdmin:war exploded" />
+          <artifact name="JSFront:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="tomcat 8.5.31" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.31" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="JSAdmin:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/JSAdmin" />
+          </settings>
+        </artifact>
+        <artifact name="JSFront:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/JSFront" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_JSFront_3" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="52434" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="JSAdmin:war exploded" />
+          <artifact name="JSFront:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Tomcat Server.tomcat 8.5.31" />
+      <item itemvalue="Tomcat Server.Tomcat 8.0.36" />
+      <item itemvalue="Tomcat Server.newTomcat" />
+      <item itemvalue="JUnit.ReportServiceTest.testGetFirstDayOfNextMonth" />
+      <item itemvalue="JUnit.ReportServiceTest.getfirstDayOfNowQuarter" />
+      <item itemvalue="JUnit.ReportServiceTest.getfirstDayOfNextQuarter" />
+      <item itemvalue="JUnit.WcfAPITest.testGroupByCountyTotal" />
+      <item itemvalue="JUnit.TestTestTest.testGetMsg" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestTestTest.testGetMsg" />
+        <item itemvalue="JUnit.WcfAPITest.testGroupByCountyTotal" />
+        <item itemvalue="JUnit.ReportServiceTest.getfirstDayOfNowQuarter" />
+        <item itemvalue="JUnit.ReportServiceTest.getfirstDayOfNextQuarter" />
+        <item itemvalue="JUnit.ReportServiceTest.testGetFirstDayOfNextMonth" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87689faf-acf4-4539-b88d-15c02bd5f19e" name="Default" comment="" />
+      <created>1524793218316</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1524793218316</updated>
+      <workItem from="1524793223021" duration="8488000" />
+      <workItem from="1524813925106" duration="246000" />
+      <workItem from="1524814254305" duration="245000" />
+      <workItem from="1524814633022" duration="452000" />
+      <workItem from="1524818360135" duration="617000" />
+      <workItem from="1524846515033" duration="4317000" />
+      <workItem from="1524977546927" duration="27978000" />
+      <workItem from="1525505521879" duration="82000" />
+      <workItem from="1525507122426" duration="241000" />
+      <workItem from="1525507606203" duration="232000" />
+      <workItem from="1525515004422" duration="3425000" />
+      <workItem from="1525571570539" duration="2397000" />
+      <workItem from="1525663066159" duration="3222000" />
+      <workItem from="1525685723263" duration="3791000" />
+      <workItem from="1525694029275" duration="4575000" />
+      <workItem from="1525744791642" duration="4063000" />
+      <workItem from="1525770185173" duration="9259000" />
+      <workItem from="1525794134115" duration="4666000" />
+      <workItem from="1526050465325" duration="665000" />
+      <workItem from="1526205193860" duration="599000" />
+      <workItem from="1526350568915" duration="6080000" />
+      <workItem from="1526446557005" duration="23606000" />
+      <workItem from="1526558526900" duration="5933000" />
+      <workItem from="1526604201065" duration="10507000" />
+      <workItem from="1526639216660" duration="2123000" />
+      <workItem from="1526642070643" duration="13649000" />
+      <workItem from="1526731230833" duration="7688000" />
+      <workItem from="1526820150936" duration="8372000" />
+      <workItem from="1526894763002" duration="32994000" />
+      <workItem from="1526969716324" duration="88434000" />
+      <workItem from="1527509874654" duration="2895000" />
+      <workItem from="1527561936462" duration="23171000" />
+      <workItem from="1527614045675" duration="43936000" />
+      <workItem from="1527725491838" duration="24946000" />
+      <workItem from="1527758846234" duration="20595000" />
+      <workItem from="1527866953839" duration="1418000" />
+      <workItem from="1527868414306" duration="24271000" />
+      <workItem from="1528033351309" duration="17151000" />
+      <workItem from="1528098189607" duration="16349000" />
+      <workItem from="1528294064293" duration="14710000" />
+      <workItem from="1528364205480" duration="29500000" />
+      <workItem from="1528398815728" duration="40391000" />
+      <workItem from="1528695839301" duration="7286000" />
+      <workItem from="1528708310313" duration="311000" />
+      <workItem from="1529040046550" duration="1882000" />
+      <workItem from="1529288481736" duration="7000" />
+      <workItem from="1529483439292" duration="4901000" />
+      <workItem from="1529488672009" duration="23805000" />
+      <workItem from="1529827064480" duration="1051000" />
+      <workItem from="1529872320294" duration="2748000" />
+      <workItem from="1529912657781" duration="5398000" />
+      <workItem from="1530011702839" duration="855000" />
+      <workItem from="1534516607839" duration="716000" />
+      <workItem from="1535524802397" duration="821000" />
+      <workItem from="1535526898091" duration="2088000" />
+      <workItem from="1535530492949" duration="24000" />
+      <workItem from="1535534751737" duration="282000" />
+      <workItem from="1535639940269" duration="6620000" />
+      <workItem from="1535684642978" duration="464000" />
+      <workItem from="1536065722787" duration="782000" />
+      <workItem from="1537797155305" duration="166000" />
+      <workItem from="1537878875710" duration="242000" />
+      <workItem from="1538207457443" duration="4653000" />
+      <workItem from="1540477120178" duration="200000" />
+      <workItem from="1543396490258" duration="2810000" />
+      <workItem from="1543399418585" duration="206000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="WcfAPITest_testGroupByCountyTotal - 2018.08.30 at 23h 42m 02s.xml">
+      <configuration name="WcfAPITest.testGroupByCountyTotal" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WcfAPITest_testGroupByCountyTotal - 2018.08.30 at 23h 44m 50s.xml">
+      <configuration name="WcfAPITest.testGroupByCountyTotal" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WcfAPITest_testGroupByCountyTotal - 2018.08.30 at 23h 46m 06s.xml">
+      <configuration name="WcfAPITest.testGroupByCountyTotal" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WcfAPITest_testGroupByCountyTotal - 2018.08.30 at 23h 46m 38s.xml">
+      <configuration name="WcfAPITest.testGroupByCountyTotal" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WcfAPITest_testGroupByCountyTotal - 2018.08.30 at 23h 46m 49s.xml">
+      <configuration name="WcfAPITest.testGroupByCountyTotal" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WcfAPITest_testGroupByCountyTotal - 2018.08.30 at 23h 48m 37s.xml">
+      <configuration name="WcfAPITest.testGroupByCountyTotal" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestTestTest_testGetMsg - 2018.09.29 at 16h 20m 18s.xml">
+      <configuration name="TestTestTest.testGetMsg" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestTestTest_testGetMsg - 2018.09.29 at 16h 22m 34s.xml">
+      <configuration name="TestTestTest.testGetMsg" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestTestTest_testGetMsg - 2018.09.29 at 16h 22m 50s.xml">
+      <configuration name="TestTestTest.testGetMsg" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestTestTest_testGetMsg - 2018.09.29 at 16h 24m 22s.xml">
+      <configuration name="TestTestTest.testGetMsg" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="606613000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32965517" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.33655173" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34068966" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32965517" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49908593" visible="true" weight="0.23046875" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info anchor="right" id="SciView" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info id="Favorites" order="5" sideWeight="0.5009141" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.33103448" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="REST Client" order="13" weight="0.43724138" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.20689656" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="40" />
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../JSDAO/src/gov/js/dao/NotResidentDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1155">
+          <caret line="84" column="51" selection-start-line="84" selection-start-column="4" selection-end-line="84" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JSService/src/gov/js/service/NotResidentService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JSAdmin/web/WEB-INF/company/companyAdd.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="25" column="28" lean-forward="true" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JSAdmin/web/WEB-INF/report/reportList.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JSAdmin/web/WEB-INF/report/notResidentList.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1695">
+          <caret line="113" column="14" selection-start-line="113" selection-start-column="14" selection-end-line="113" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JSAdmin/web/WEB-INF/company/companyAdd4NotResident.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="16" column="77" selection-start-line="16" selection-start-column="77" selection-end-line="16" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JSAdmin/web/WEB-INF/article/articleAdd.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="85" selection-start-line="82" selection-start-column="98" selection-end-line="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JSAdmin/src/gov/js/admin/servlet/ReportServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7485">
+          <caret line="534" selection-start-line="534" selection-end-line="534" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/assets/lib/ueditor/1.4.3/jsp/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1035">
+          <caret line="69" column="43" selection-start-line="69" selection-start-column="43" selection-end-line="69" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2340">
+          <caret line="156" column="66" selection-start-line="156" selection-start-column="20" selection-end-line="156" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JSAdmin/src/gov/js/admin/servlet/companyServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="114" column="11" selection-start-line="114" selection-start-column="8" selection-end-line="114" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JSAdmin/web/WEB-INF/company/companyEdit.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="80" column="38" selection-start-line="80" selection-start-column="38" selection-end-line="80" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JSAdmin/src/gov/js/admin/utils/WcfD.java" />
+    <entry file="file://$PROJECT_DIR$/../JSAdmin/src/gov/js/admin/servlet/SettingServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JSAdmin/src/gov/js/admin/servlet/IndexServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="128" lean-forward="true" selection-start-line="128" selection-end-line="129" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JSAdmin/web/WEB-INF/testSc.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" selection-start-column="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JSAdmin/web/WEB-INF/company/companyList.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="54" column="16" selection-start-line="54" selection-start-column="16" selection-end-line="54" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JSAdmin/src/gov/js/admin/servlet/TestScServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JSAdmin/src/gov/js/admin/utils/WcfResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="70" column="9" selection-start-line="70" selection-start-column="9" selection-end-line="70" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JSAdmin/src/gov/js/admin/utils/WcfAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JSDAO/src/gov/js/dao/utils/JDBCUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="202" column="5" selection-start-line="202" selection-start-column="5" selection-end-line="202" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gov/js/front/servlet/BaseServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="31" column="37" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gov/js/front/servlet/CarShopServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gov/js/front/servlet/ArticleServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JSService/src/gov/js/service/ArticleService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="39" column="8" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JSAdmin/src/gov/js/admin/servlet/AdminUserServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JSAdmin/src/gov/js/admin/servlet/TestTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="11" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JSAdmin/src/test/gov/js/admin/servlet/TestTestTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JSAdmin/src/test/gov/js/admin/utils/WcfAPITest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JSAdmin/src/gov/js/admin/servlet/qwe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JSAdmin/src/log4j2.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="37" lean-forward="true" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JSDAO/src/gov/js/dao/AdminLogDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JSDTO/src/gov/js/dto/RoleDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JSDTO/src/gov/js/dto/AdminLogDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="11" column="32" lean-forward="true" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JSDTO/src/gov/js/dto/AdminUserDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JSDAO/src/gov/js/dao/AdminUserDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="28" column="9" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="28" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JSService/src/gov/js/service/AdminUserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="24" column="14" lean-forward="true" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JSTools/src/gov/js/tools/AjaxResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JSTools/src/gov/js/tools/CheckBoxTag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="66" column="23" lean-forward="true" selection-start-line="66" selection-start-column="23" selection-end-line="66" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JSTools/src/gov/js/tools/CommonUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1065">
+          <caret line="89" column="44" selection-start-line="89" selection-start-column="26" selection-end-line="89" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JSTools/src/gov/js/tools/ExcelUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JSTools/src/gov/js/tools/Functions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JSTools/src/gov/js/tools/PagerTag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JSTools/src/gov/js/tools/SelectTag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JSTools/src/gov/js/tools/TestUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JSTools/src/gov/js/tools/TrimHttpRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JSAdmin/web/lib/ueditor/1.4.3/jsp/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="32" lean-forward="true" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JSAdmin/web/WEB-INF/Ueditor.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="48" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JSTools/src/gov/js/tools/VerifyCodeUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="62" column="7" selection-start-line="62" selection-start-column="7" selection-end-line="62" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JSAdmin/web/WEB-INF/header.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="42" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JSAdmin/web/WEB-INF/banner/bannerAdd.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor>
+            <show-content>
+              <type id="jpa-descriptors" />
+              <type id="library" />
+              <type id="javaee-facet-resources" />
+              <type id="artifact" />
+            </show-content>
+          </artifact-editor>
+          <last-edited>JSAdmin:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>commons-io-2.5</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>JSFront</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.31152633" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>poi-3.17</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,160 @@
+a {
+    text-decoration: none !important;
+}
+
+body {
+    background: url("../img/bg.png") 0px 0px / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0);
+    min-width: 1170px !important;
+}
+
+.theader .navbar {
+    background: none;
+}
+
+.theader {
+    background: none;
+}
+
+.headleft {
+    float: left;
+}
+
+.headright {
+    line-height: 70px;
+    margin-right: 10%;
+    float: right;
+}
+
+.headright .label {
+    font-size: 18px;
+    line-height: 20px
+}
+
+.navbar-nav li:hover {
+    background-color: #65A4F3;
+}
+
+.navbar-nav li a:hover {
+    color: white !important;
+}
+
+.navbar-nav .active {
+    background-color: #65A4F3;
+}
+
+.navbar-nav .active a {
+    color: white !important;
+}
+
+.banner img {
+    height: 300px !important;
+    width: 100%;
+}
+.banner2 img {
+    height: 200px !important;
+    width: 100%;
+}
+
+/*//轮播公告*/
+.marquee {
+    height: 200px;
+    overflow: hidden;
+    line-height: 22px
+}
+
+.marquee li {
+    height: 200px;
+    overflow: hidden;
+    line-height: 22px
+}
+
+.borderdiv span {
+    border: 1px solid #6198c2;
+    line-height: 60px;
+    width: 80%;
+    display: block;
+    font-size: 28px;
+    border-radius: 10px;
+}
+
+.tabBar span {
+    float: inherit;
+}
+
+.tabBar span {
+    border-radius: 5px 5px 0 0;
+    color: #fff;
+    font-size: 18px;
+    height: 52px;
+    line-height: 52px;
+    text-decoration: none !important;
+}
+
+#tab_demo .tabBar {
+    background: rgba(255, 255, 255, 0.2);
+}
+
+.tabBar span.current {
+    background-color: #6198c2;
+    color: #fff;
+}
+
+.tabBar span {
+    border-radius: 5px 5px 0 0;
+    border: 1px solid #c0c0c0;
+    color: #6198c2;
+    font-size: 18px;
+    height: 52px;
+    line-height: 52px;
+    text-decoration: none !important;
+}
+.artlistimg
+{
+    /*height: 150px;*/
+}
+.artlistimg img
+{
+    height: 100%;
+    width: 100%;
+}
+
+.artlistimg li:hover
+{
+    border: 1px solid #3bb4f2;
+}
+.artlistimg li
+{
+    height: 130px;
+    margin: 5px auto;
+    background-color: white;
+    border: 1px solid #c0c0c0;
+    padding: 10px;
+    border-radius: 10px;
+}
+.artlistimg li div
+{
+    height: 100%;
+}
+.rightul
+{
+    margin-top: 20px;
+}
+.rightul li
+{
+    background-color: white;
+    line-height: 38px;
+    margin: 5px;
+}
+.rightul li a{
+    display: block;
+}
+.artspantit
+{
+    width: 200px !important;
+    height: 50px !important;
+    display: block;
+    border-top-left-radius: 50px;
+    text-align: center;
+    line-height: 50px;
+    font-size: 22px;
+}

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="JSAdmin:war">
+    <output-path>D:/1tempFile/项目/www.js.gov.cn/warTest/newWar</output-path>
+    <root id="archive" name="JSAdmin_war.war">
+      <element id="artifact" artifact-name="JSAdmin:war exploded" />
+    </root>
+  </artifact>
+</component>
