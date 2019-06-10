@@ -80,13 +80,13 @@
             <nav class="nav navbar-nav nav-collapse" role="navigation" id="Hui-navbar">
                 <ul id="ulTest" class="cl">
                     <li id="0" class="current active"><a href="<%=ctxPath%>/Index?action=index">首页</a></li>
-                    <li ><a href="<%=ctxPath %>/Article?action=articlePageData&typeId=1&pageIndex=1">机构简介</a></li>
-                    <li ><a href="<%=ctxPath %>/Article?action=articlePageData&typeId=2&pageIndex=1">政务公开</a></li>
-                    <li ><a href="<%=ctxPath %>/Article?action=articlePageData&typeId=3&pageIndex=1">政策法规</a></li>
-                    <li ><a href="<%=ctxPath %>/Article?action=articlePageData&typeId=4&pageIndex=1">业内新闻</a></li>
-                    <li ><a href="<%=ctxPath %>/Article?action=articlePageData&typeId=5&pageIndex=1">人水和谐</a></li>
-                    <li ><a href="<%=ctxPath %>/Article?action=articlePageData&typeId=6&pageIndex=1">节水型城市</a></li>
-                    <li ><a href="<%=ctxPath %>/Article?action=articlePageData&typeId=7&pageIndex=1">联系我们</a></li>
+                    <li ><a href="<%=ctxPath %>/Article?action=articlePageData&typeId=1&pageIndex=1">理科类论文</a></li>
+                    <li ><a href="<%=ctxPath %>/Article?action=articlePageData&typeId=2&pageIndex=1">文科类论文</a></li>
+                    <li ><a href="<%=ctxPath %>/Article?action=articlePageData&typeId=3&pageIndex=1">管理类论文</a></li>
+                    <li ><a href="<%=ctxPath %>/Article?action=articlePageData&typeId=4&pageIndex=1">研究类论文</a></li>
+                    <li ><a href="<%=ctxPath %>/Article?action=articlePageData&typeId=5&pageIndex=1">专题型论文</a></li>
+                    <li ><a href="<%=ctxPath %>/Article?action=articlePageData&typeId=6&pageIndex=1">辩论型论文</a></li>
+                    <li ><a href="<%=ctxPath %>/Article?action=articlePageData&typeId=7&pageIndex=1">综合型论文</a></li>
                 </ul>
             </nav>
             <nav class="navbar-userbar hidden-xs">
@@ -165,37 +165,7 @@
     <div style="background: url('<%=ctxPath%>/assets/static/jieshui/img/flbg.png');background-size: 100%;height: 300px;margin-top: 50px"
          align="center">
 
-        <div class="container">
-            <h3 style="color: white">功能直达</h3>
-            <hr/>
-            <br/>
-            <div class="row">
-                <div class="col-xs-3 col-sm-3">
-                    <a href="<%=ctxPath %>/Report?action=add">
-                        <img src="<%=ctxPath %>/assets/static/jieshui/img/table.png">
-                        <h3 style="color: white">报表在线</h3>
-                    </a>
-                </div>
-                <div class="col-xs-3 col-sm-3">
-                    <a href="<%=ctxPath %>/Report?action=view">
-                        <img src="<%=ctxPath %>/assets/static/jieshui/img/find.png">
-                        <h3 style="color: white">水量查询</h3>
-                    </a>
-                </div>
-                <div class="col-xs-3 col-sm-3">
-                    <a href="<%=ctxPath %>/Article?action=articlePageData&typeId=10&pageIndex=1">
-                        <img src="<%=ctxPath %>/assets/static/jieshui/img/zhinan.png">
-                        <h3 style="color: white">办事指南</h3>
-                    </a>
-                </div>
-                <div class="col-xs-3 col-sm-3">
-                    <a href="<%=ctxPath %>/Article?action=download&pageIndex=1">
-                        <img src="<%=ctxPath %>/assets/static/jieshui/img/down.png">
-                        <h3 style="color: white">文件下载</h3>
-                    </a>
-                </div>
-            </div>
-        </div>
+
     </div>
 </div>
 <div>

@@ -68,13 +68,13 @@
             <nav class="nav navbar-nav nav-collapse" role="navigation" id="Hui-navbar">
                 <ul id="ulTest" class="cl">
                     <li id="0" class="current active"><a href="<%=ctxPath%>/Index?action=index">首页</a></li>
-                    <li id="1" ><a href="<%=ctxPath %>/Article?action=articleList&typeId=1">机构简介</a></li>
-                    <li id="2" ><a href="<%=ctxPath %>/Article?action=articleList&typeId=2">政务公开</a></li>
-                    <li id="3" ><a href="<%=ctxPath %>/Article?action=articleList&typeId=3">政策法规</a></li>
-                    <li id="4" ><a href="<%=ctxPath %>/Article?action=articleList&typeId=4">业内新闻</a></li>
-                    <li id="5" ><a href="<%=ctxPath %>/Article?action=articleList&typeId=5">人水和谐</a></li>
-                    <li id="6" ><a href="<%=ctxPath %>/Article?action=articleList&typeId=6">节水型城市</a></li>
-                    <li id="7" ><a href="<%=ctxPath %>/Article?action=articleList&typeId=7">联系我们</a></li>
+                    <li ><a href="<%=ctxPath %>/Article?action=articlePageData&typeId=1&pageIndex=1">理科类论文</a></li>
+                    <li ><a href="<%=ctxPath %>/Article?action=articlePageData&typeId=2&pageIndex=1">文科类论文</a></li>
+                    <li ><a href="<%=ctxPath %>/Article?action=articlePageData&typeId=3&pageIndex=1">管理类论文</a></li>
+                    <li ><a href="<%=ctxPath %>/Article?action=articlePageData&typeId=4&pageIndex=1">研究类论文</a></li>
+                    <li ><a href="<%=ctxPath %>/Article?action=articlePageData&typeId=5&pageIndex=1">专题型论文</a></li>
+                    <li ><a href="<%=ctxPath %>/Article?action=articlePageData&typeId=6&pageIndex=1">辩论型论文</a></li>
+                    <li ><a href="<%=ctxPath %>/Article?action=articlePageData&typeId=7&pageIndex=1">综合型论文</a></li>
                 </ul>
             </nav>
             <nav class="navbar-userbar hidden-xs">
