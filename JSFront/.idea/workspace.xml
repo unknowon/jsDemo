@@ -7,46 +7,8 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="87689faf-acf4-4539-b88d-15c02bd5f19e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../JSAdmin/web/WEB-INF/classes/META-INF/JSAdmin.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JSAdmin/web/WEB-INF/upload/(P9LKNZO[U1UY4C5PPT2H65.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JSAdmin/web/images/watermark.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JSAdmin/web/upload/(P9LKNZO[U1UY4C5PPT2H65.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JSAdmin/JSAdmin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../JSAdmin/JSAdmin.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JSAdmin/src/gov/js/admin/servlet/BaseServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JSAdmin/src/gov/js/admin/servlet/BaseServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JSAdmin/src/gov/js/admin/servlet/IndexServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JSAdmin/src/gov/js/admin/servlet/IndexServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JSAdmin/src/gov/js/admin/servlet/TestScServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JSAdmin/src/gov/js/admin/utils/AdminUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JSAdmin/src/gov/js/admin/utils/AdminUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JSAdmin/src/gov/js/admin/utils/WcfAPI.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JSAdmin/src/gov/js/admin/utils/WcfResult.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JSAdmin/src/test/gov/js/admin/servlet/TestTestTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JSAdmin/src/test/gov/js/admin/utils/WcfAPITest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JSAdmin/web/WEB-INF/banner/bannerAdd.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../JSAdmin/web/WEB-INF/banner/bannerAdd.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JSAdmin/web/WEB-INF/classes/gov/js/admin/servlet/BaseServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JSAdmin/web/WEB-INF/classes/gov/js/admin/servlet/BaseServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JSAdmin/web/WEB-INF/classes/gov/js/admin/servlet/IndexServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JSAdmin/web/WEB-INF/classes/gov/js/admin/servlet/IndexServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JSAdmin/web/WEB-INF/classes/gov/js/admin/servlet/TestScServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JSAdmin/web/WEB-INF/classes/gov/js/admin/utils/WcfAPI$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JSAdmin/web/WEB-INF/classes/gov/js/admin/utils/WcfAPI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JSAdmin/web/WEB-INF/classes/gov/js/admin/utils/WcfResult$d.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JSAdmin/web/WEB-INF/classes/gov/js/admin/utils/WcfResult.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JSAdmin/web/WEB-INF/classes/test/gov/js/admin/servlet/TestTestTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JSAdmin/web/WEB-INF/classes/test/gov/js/admin/utils/WcfAPITest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JSDAO/JSDAO.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../JSDAO/JSDAO.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JSDAO/src/dbcp2.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../JSDAO/src/dbcp2.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JSDAO/src/test/gov/js/dao/AdminLogDAOTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JSDAO/src/test/gov/js/dao/RoleDAOTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/JSAdmin_war.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/JSAdmin_war.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/JSAdmin_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/JSAdmin_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/JSFront_war.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/JSFront_war.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/apache_tomcat_8_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/apache_tomcat_8_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSFront.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JSFront.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JSService/JSService.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../JSService/JSService.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JSService/src/test/gov/js/service/ReportServiceTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JSTools/JSTools.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../JSTools/JSTools.iml" afterDir="false" />
+    <list default="true" id="87689faf-acf4-4539-b88d-15c02bd5f19e" name="Default" comment="Init">
+      <change beforePath="$PROJECT_DIR$/../JSAdmin/web/WEB-INF/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../JSAdmin/web/WEB-INF/index.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -118,16 +80,25 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../JSAdmin/web/WEB-INF/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="62" column="15" selection-start-line="62" selection-start-column="15" selection-end-line="62" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/WEB-INF/center.jsp">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/WEB-INF/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="17" column="41" lean-forward="true" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+            <state relative-caret-position="76">
+              <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -274,13 +245,13 @@
         <option value="$PROJECT_DIR$/../JSAdmin/src/gov/js/admin/servlet/BaseServlet.java" />
         <option value="$PROJECT_DIR$/../JSAdmin/src/gov/js/admin/servlet/IndexServlet.java" />
         <option value="$PROJECT_DIR$/../JSAdmin/src/gov/js/admin/servlet/TestScServlet.java" />
-        <option value="$PROJECT_DIR$/../JSAdmin/web/WEB-INF/index.jsp" />
         <option value="$PROJECT_DIR$/../JSDAO/src/dbcp2.properties" />
         <option value="$PROJECT_DIR$/../JSDTO/src/gov/js/dto/AdminLogDTO.java" />
         <option value="$PROJECT_DIR$/../JSDAO/src/gov/js/dao/AdminLogDAO.java" />
         <option value="$PROJECT_DIR$/../JSAdmin/web/WEB-INF/banner/bannerAdd.jsp" />
         <option value="$PROJECT_DIR$/../JSAdmin/src/gov/js/admin/servlet/BannerServlet.java" />
         <option value="$PROJECT_DIR$/web/WEB-INF/index.jsp" />
+        <option value="$PROJECT_DIR$/../JSAdmin/web/WEB-INF/index.jsp" />
       </list>
     </option>
   </component>
@@ -646,8 +617,16 @@
       <workItem from="1543399418585" duration="206000" />
       <workItem from="1560004950835" duration="3792000" />
       <workItem from="1560068388753" duration="281000" />
-      <workItem from="1560159674223" duration="9706000" />
+      <workItem from="1560159674223" duration="10027000" />
     </task>
+    <task id="LOCAL-00001" summary="Init">
+      <created>1560169460513</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1560169460513</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -683,7 +662,16 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="620392000" />
+    <option name="totallyTimeSpent" value="620713000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -698,17 +686,17 @@
       <window_info id="Capture Tool" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.20679887" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33994335" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33994335" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
       <window_info anchor="bottom" id="Application Servers" order="7" weight="0.3286119" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32965517" />
       <window_info anchor="bottom" id="Messages" order="9" weight="0.33002833" />
       <window_info anchor="bottom" id="Java Enterprise" order="10" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.3286119" />
       <window_info anchor="bottom" id="REST Client" order="13" weight="0.43724138" />
       <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
       <window_info anchor="bottom" id="Docker" order="15" show_stripe_button="false" />
@@ -727,6 +715,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Init" />
+    <option name="LAST_COMMIT_MESSAGE" value="Init" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -927,13 +919,6 @@
     <entry file="file://$PROJECT_DIR$/../JSAdmin/web/WEB-INF/error.jsp">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JSAdmin/web/WEB-INF/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="63" column="53" selection-start-line="63" selection-start-column="53" selection-end-line="63" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../JSTools/src/gov/js/tools/CheckBoxTag.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-360">
@@ -1060,8 +1045,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="17" column="41" lean-forward="true" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+        <state relative-caret-position="76">
+          <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JSAdmin/web/WEB-INF/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="62" column="15" selection-start-line="62" selection-start-column="15" selection-end-line="62" selection-end-column="15" />
         </state>
       </provider>
     </entry>
