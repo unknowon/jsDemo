@@ -93,7 +93,7 @@
             , url: '<%=ctxPath%>/Banner?action=uploadImage'
             , accept: 'image' //普通文件
             , exts: 'jpg|jpeg|gif|png' //只允许上传压缩文件
-            , size: 3000 //限制文件大小，单位 KB
+            , size: 300000 //限制文件大小，单位 KB
             , before: function (obj) {
                 //预读本地文件示例，不支持ie8
                 obj.preview(function (index, file, result) {

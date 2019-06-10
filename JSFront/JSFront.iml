@@ -21,8 +21,6 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" scope="PROVIDED" name="Tomcat 8.5.31" level="application_server_libraries" />
-    <orderEntry type="library" name="commons-io-2.5" level="application" />
     <orderEntry type="module-library">
       <library>
         <CLASSES>
@@ -48,5 +46,6 @@
     <orderEntry type="module" module-name="JSDTO" />
     <orderEntry type="module" module-name="JSService" />
     <orderEntry type="module" module-name="JSTools" />
+    <orderEntry type="library" scope="PROVIDED" name="Tomcat 9.0.20" level="application_server_libraries" />
   </component>
 </module>

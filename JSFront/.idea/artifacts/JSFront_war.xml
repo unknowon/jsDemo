@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
-  <artifact type="war" name="JSFront:war">
-    <output-path>D:/1tempFile/项目/www.js.gov.cn/warTest/newWar</output-path>
+  <artifact type="war" build-on-make="true" name="JSFront:war">
+    <output-path>D:/Application/apache-tomcat-9.0.20/webapps</output-path>
     <root id="archive" name="JSFront_war.war">
       <element id="artifact" artifact-name="JSFront:war exploded" />
     </root>

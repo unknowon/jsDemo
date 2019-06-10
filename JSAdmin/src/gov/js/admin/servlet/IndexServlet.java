@@ -1,10 +1,7 @@
 package gov.js.admin.servlet;
 
 import gov.js.admin.utils.AdminUtils;
-import gov.js.admin.utils.WcfAPI;
-import gov.js.admin.utils.WcfResult;
 import gov.js.dto.AdminUserDTO;
-import gov.js.dto.CompanyDTO;
 import gov.js.dto.RoleDTO;
 import gov.js.service.AdminUserService;
 import gov.js.service.ReportService;
@@ -154,12 +151,5 @@ public class IndexServlet extends BaseServlet {
         req.getRequestDispatcher("/WEB-INF/Ueditor.jsp").forward(req, resp);
     }
 
-    @AllowAnonymous
-    public void testSc(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
 
-        WcfResult wcf = WcfAPI.GroupByCountyTotal(5224);
-        req.setAttribute("wcf", wcf);
-
-        req.getRequestDispatcher("/WEB-INF/testSc.jsp").forward(req, resp);
-    }
 }

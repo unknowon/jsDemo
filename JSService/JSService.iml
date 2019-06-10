@@ -9,7 +9,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="JSDTO" />
     <orderEntry type="module" module-name="JSDAO" />
-    <orderEntry type="library" scope="TEST" name="junit-4.10" level="application" />
     <orderEntry type="module-library">
       <library name="testng">
         <CLASSES>
@@ -20,6 +19,5 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="library" name="junit-4.10" level="application" />
   </component>
 </module>

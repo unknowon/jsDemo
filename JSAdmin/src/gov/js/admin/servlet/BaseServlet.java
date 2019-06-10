@@ -9,18 +9,13 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
+import gov.js.admin.utils.AdminUtils;
 import gov.js.dto.AdminLogDTO;
-import gov.js.dto.AdminUserDTO;
-import gov.js.dto.PermissionDTO;
 import gov.js.service.AdminLogService;
-import gov.js.service.PermissionService;
 import org.apache.commons.lang3.StringUtils;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-import com.google.gson.Gson;
-import com.google.gson.GsonBuilder;
-import gov.js.admin.utils.AdminUtils;
 import gov.js.service.AdminUserService;
 import gov.js.tools.AjaxResult;
 
