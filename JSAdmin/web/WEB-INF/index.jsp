@@ -56,7 +56,7 @@
             <dt><i class="Hui-iconfont">&#xe613;</i> 轮播图管理<i class="Hui-iconfont menu_dropdown-arrow">&#xe6d5;</i></dt>
             <dd>
                 <ul>
-                    <li><a _href="<%=ctxPath %>/Banner?action=bannerList" href="javascript:void(0)">轮播图管理123</a></li>
+                    <li><a _href="<%=ctxPath %>/Banner?action=bannerList" href="javascript:void(0)">轮播图管理</a></li>
                 </ul>
             </dd>
         </dl>
