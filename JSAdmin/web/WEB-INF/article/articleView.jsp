@@ -16,7 +16,7 @@
 
     <meta name="keywords" content="毕节节水数字">
 
-    <meta name="description" content="毕节市七星关区城市节水数字平台数据填报系统">
+    <meta name="description" content="毕业论文管理系统后台">
     <link rel="Bookmark" href="favicon.ico">
     <link rel="Shortcut Icon" href="favicon.ico"/>
     <!--[if lt IE 9]>

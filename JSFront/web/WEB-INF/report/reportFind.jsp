@@ -9,7 +9,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-    <title>毕节市七星关区城市节水数字平台数据填报系统</title>
+    <title>毕业论文管理系统后台</title>
     <%@include file="/WEB-INF/header.jsp"%>
 </head>
 <body>

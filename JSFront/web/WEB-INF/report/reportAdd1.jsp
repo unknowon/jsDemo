@@ -46,9 +46,7 @@
 
 <header class="navbar-wrapper theader" style="height: 114px !important;">
     <div class="navbar" style="height: 70px">
-        <div class="headleft">
-            <a class="" href="/aboutHui.shtml"><img src="<%=ctxPath %>/assets/logo.png"></a>
-        </div>
+
         <div class="headright">
             <a <c:choose><c:when test="${empty frontCompany}"><c:out value="href=Index?action=login"></c:out></c:when><c:otherwise><c:out value="href=Index?action=center"></c:out></c:otherwise></c:choose>>
 	                <span class="label label-success radius" style="font-weight: normal;font-size: 14px">
@@ -88,37 +86,7 @@
     <div style="background: url('<%=ctxPath%>/assets/static/jieshui/img/flbg.png');background-size: 100%;height: 300px;margin-top: 50px"
          align="center">
 
-        <div class="container">
-            <h3 style="color: white">功能直达</h3>
-            <hr/>
-            <br/>
-            <div class="row">
-                <div class="col-xs-3 col-sm-3">
-                    <a href="<%=ctxPath %>/Report?action=add">
-                        <img src="<%=ctxPath %>/assets/static/jieshui/img/table.png">
-                        <h3 style="color: white">报表在线</h3>
-                    </a>
-                </div>
-                <div class="col-xs-3 col-sm-3">
-                    <a href="<%=ctxPath %>/Report?action=view">
-                        <img src="<%=ctxPath %>/assets/static/jieshui/img/find.png">
-                        <h3 style="color: white">水量查询</h3>
-                    </a>
-                </div>
-                <div class="col-xs-3 col-sm-3">
-                    <a href="<%=ctxPath %>/Article?action=articleList&typeId=10">
-                        <img src="<%=ctxPath %>/assets/static/jieshui/img/zhinan.png">
-                        <h3 style="color: white">办事指南</h3>
-                    </a>
-                </div>
-                <div class="col-xs-3 col-sm-3">
-                    <a href="<%=ctxPath %>/Article?action=download">
-                        <img src="<%=ctxPath %>/assets/static/jieshui/img/down.png">
-                        <h3 style="color: white">文件下载</h3>
-                    </a>
-                </div>
-            </div>
-        </div>
+
     </div>
     <div style="clear: both;"></div>
     <div class="container" style="min-width: 1090px !important;">
