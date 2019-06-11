@@ -15,6 +15,9 @@
 <header class="Hui-header cl"> <a class="Hui-logo l" title="毕业论文管理系统后台" href="<%=ctxPath%>/">毕业论文管理系统后台</a> <a class="Hui-logo-m l" href="<%=ctxPath%>/" title="毕业论文管理系统后台"></a> <span class="Hui-subtitle l"></span>
 
     <ul class="Hui-userbar">
+        <li class="dropDown dropDown_hover"><a href="<%=ctxPath%>/Index?action=logout" class="dropDown_A">退出登录 </a>
+
+        </li>
         <li class="dropDown dropDown_hover"><a href="#" class="dropDown_A">${adminUser.name} </a>
 
         </li>
@@ -34,7 +37,7 @@
     <input runat="server" id="divScrollValue" type="hidden" value="" />
     <div class="menu_dropdown bk_2">
         <dl id="menu-article">
-            <dt><i class="Hui-iconfont">&#xe616;</i> 文章管理123<i class="Hui-iconfont menu_dropdown-arrow">&#xe6d5;</i></dt>
+            <dt><i class="Hui-iconfont">&#xe616;</i>论文管理<i class="Hui-iconfont menu_dropdown-arrow">&#xe6d5;</i></dt>
             <dd>
                 <ul>
                     <li><a _href="<%=ctxPath %>/Article?action=articleList&typeId=1" href="javascript:void(0)">理科类论文</a></li>
@@ -42,8 +45,8 @@
                     <li><a _href="<%=ctxPath %>/Article?action=articleList&typeId=3" href="javascript:void(0)">管理类论文</a></li>
                     <li><a _href="<%=ctxPath %>/Article?action=articleList&typeId=4" href="javascript:void(0)">研究类论文</a></li>
                     <li><a _href="<%=ctxPath %>/Article?action=articleList&typeId=5" href="javascript:void(0)">专题型论文</a></li>
-                    <li><a _href="<%=ctxPath %>/Article?action=articleList&typeId=6" href="javascript:void(0)">辩论型论文</a></li>
-                    <li><a _href="<%=ctxPath %>/Article?action=articleList&typeId=7" href="javascript:void(0)">综合型论文</a></li>
+                    <li><a _href="<%=ctxPath %>/Article?action=articleList&typeId=6" href="javascript:void(0)">综合型论文</a></li>
+                    <li><a _href="<%=ctxPath %>/Article?action=articleList&typeId=7" href="javascript:void(0)">辩论型论文</a></li>
                 </ul>
             </dd>
         </dl>
@@ -70,20 +73,11 @@
             <dd>
                 <ul>
                     <li><a _href="<%=ctxPath %>/Company?action=list" href="javascript:;">会员列表</a></li>
-                    <
+
                 </ul>
             </dd>
         </dl>
-        <dl id="menu-member">
-            <dt><i class="Hui-iconfont">&#xe66d;</i> 申请管理<i class="Hui-iconfont menu_dropdown-arrow">&#xe6d5;</i></dt>
-            <dd>
-                <ul>
-                    <li><a _href="<%=ctxPath %>/Application?action=list&status=9" href="javascript:;">申请列表</a></li>
-                    <li><a _href="<%=ctxPath %>/Application?action=list&status=0" href="javascript:;">待审核列表</a></li>
-                    <li><a _href="<%=ctxPath %>/Application?action=list&status=1" href="javascript:;">待同意列表</a></li>
-                </ul>
-            </dd>
-        </dl>
+
         <dl id="menu-admin">
             <dt><i class="Hui-iconfont">&#xe62d;</i> 管理员管理<i class="Hui-iconfont menu_dropdown-arrow">&#xe6d5;</i></dt>
             <dd>

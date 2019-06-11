@@ -30,7 +30,12 @@ public class IndexServlet extends BaseServlet {
 		List<ArticleDTO> articlesList = new ArrayList<>();
 		List<ArticleDTO[]> articleRs = new ArrayList<>();
 
-		ArticleDTO[] articles = articleService.view(8, 4);
+		ArticleDTO[] articles = articleService.view(1, 4);
+		articlesList = intoList(articlesList, articles);
+		articleRs.add(articlesList.toArray(new ArticleDTO[articlesList.size()]));
+		articlesList.clear();
+
+		articles = articleService.view(2, 4);
 		articlesList = intoList(articlesList, articles);
 		articleRs.add(articlesList.toArray(new ArticleDTO[articlesList.size()]));
 		articlesList.clear();
@@ -40,17 +45,12 @@ public class IndexServlet extends BaseServlet {
 		articleRs.add(articlesList.toArray(new ArticleDTO[articlesList.size()]));
 		articlesList.clear();
 
-		articles = articleService.view(4, 4);
-		articlesList = intoList(articlesList, articles);
-		articleRs.add(articlesList.toArray(new ArticleDTO[articlesList.size()]));
-		articlesList.clear();
-
-		articles = articleService.view(9, 4);
-		articlesList = intoList(articlesList, articles);
-		articleRs.add(articlesList.toArray(new ArticleDTO[articlesList.size()]));
-		articlesList.clear();
-
 		articles = articleService.view(5, 4);
+		articlesList = intoList(articlesList, articles);
+		articleRs.add(articlesList.toArray(new ArticleDTO[articlesList.size()]));
+		articlesList.clear();
+
+		articles = articleService.view(6, 4);
 		articlesList = intoList(articlesList, articles);
 		articleRs.add(articlesList.toArray(new ArticleDTO[articlesList.size()]));
 		articlesList.clear();

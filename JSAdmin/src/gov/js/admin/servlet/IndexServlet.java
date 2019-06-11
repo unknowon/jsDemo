@@ -23,6 +23,7 @@ import java.util.Date;
 public class IndexServlet extends BaseServlet {
 
     @LogMsg("退出登录")
+    @AllowAnonymous
     public void logout(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         req.getSession().invalidate();//销毁Session
         resp.sendRedirect(req.getContextPath()+"/Index?action=login");
@@ -150,6 +151,5 @@ public class IndexServlet extends BaseServlet {
     public void ueditorTest(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         req.getRequestDispatcher("/WEB-INF/Ueditor.jsp").forward(req, resp);
     }
-
 
 }

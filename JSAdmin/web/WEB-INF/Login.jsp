@@ -81,7 +81,7 @@ $(document).ready(function() {
 
 <dl class="admin_login">
  <dt>
-  <strong>节水数字平台数据填报系统</strong>
+  <strong>毕业论文管理系统</strong>
   <em>Management System</em>
  </dt>
  <dd class="user_icon">
@@ -90,14 +90,7 @@ $(document).ready(function() {
  <dd class="pwd_icon">
   <input type="password" name="password" placeholder="密码" value="" class="login_txtbx"/>
  </dd>
- <%--<dd class="val_icon">
-  <div class="checkcode">
-    <input type="text" name="verifyCode" id="J_codetext" placeholder="验证码" maxlength="4" class="login_txtbx">
-    <img src="<%=ctxPath%>/Index?action=verifyCode" id="imgVerifyCode">
 
-  </div>
-  <input type="button" value="更换二维码" class="ver_btn" id="kanbuq" onClick="validate();">
- </dd>--%>
  <dd>
   <input type="button" value="立即登陆" id="btnLogin" class="submit_btn" />
  </dd>

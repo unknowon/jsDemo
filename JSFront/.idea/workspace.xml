@@ -2,16 +2,31 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="JSAdmin:war" />
-      <artifact name="JSFront:war" />
+      <artifact name="JSAdmin:war exploded" />
+      <artifact name="JSFront:war exploded" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="87689faf-acf4-4539-b88d-15c02bd5f19e" name="Default" comment="Init">
-      <change beforePath="$PROJECT_DIR$/../JSAdmin/web/WEB-INF/article/articleView.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../JSAdmin/web/WEB-INF/article/articleView.jsp" afterDir="false" />
+    <list default="true" id="87689faf-acf4-4539-b88d-15c02bd5f19e" name="Default" comment="hotRestartTest">
+      <change beforePath="$PROJECT_DIR$/../JSAdmin/src/gov/js/admin/servlet/IndexServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JSAdmin/src/gov/js/admin/servlet/IndexServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSAdmin/web/WEB-INF/Login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../JSAdmin/web/WEB-INF/Login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSAdmin/web/WEB-INF/classes/gov/js/admin/servlet/IndexServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JSAdmin/web/WEB-INF/classes/gov/js/admin/servlet/IndexServlet.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JSAdmin/web/WEB-INF/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../JSAdmin/web/WEB-INF/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/JSAdmin_war.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/JSFront_war.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gov/js/front/servlet/IndexServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gov/js/front/servlet/IndexServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/Login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/Login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/application/applicationAdd.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/application/applicationAdd.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/article/article.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/article/article.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/article/articleAdd.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/article/articleAdd.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/article/articleView.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/article/articleView.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/gov/js/front/servlet/IndexServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/gov/js/front/servlet/IndexServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/notice/noticeView.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/notice/noticeView.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/WEB-INF/report/reportAdd1.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/report/reportAdd1.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/WEB-INF/report/reportAdd2.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/report/reportAdd2.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/report/reportAdd3.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/report/reportAdd3.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/WEB-INF/report/reportFind.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/report/reportFind.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -29,18 +44,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/WEB-INF/application/applicationAdd.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-251">
-              <caret line="81" column="16" lean-forward="true" selection-start-line="81" selection-start-column="16" selection-end-line="81" selection-end-column="16" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/WEB-INF/report/reportAdd2.jsp">
           <provider selected="true" editor-type-id="text-editor">
@@ -63,7 +66,7 @@
         <entry file="file://$PROJECT_DIR$/web/WEB-INF/article/article.jsp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="228">
-              <caret line="63" column="25" lean-forward="true" selection-start-line="63" selection-start-column="25" selection-end-line="63" selection-end-column="25" />
+              <caret line="63" column="25" selection-start-line="63" selection-start-column="25" selection-end-line="63" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -71,8 +74,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../JSAdmin/web/WEB-INF/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="104" column="13" lean-forward="true" selection-start-line="104" selection-start-column="13" selection-end-line="104" selection-end-column="13" />
+            <state relative-caret-position="1425">
+              <caret line="75" lean-forward="true" selection-start-line="75" selection-end-line="75" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../JSAdmin/web/WEB-INF/Login.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-120">
+              <caret line="83" column="18" selection-start-line="83" selection-start-column="18" selection-end-line="83" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -81,7 +93,7 @@
         <entry file="file://$PROJECT_DIR$/src/gov/js/front/servlet/ApplicationServlet.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-458">
-              <caret line="18" column="47" lean-forward="true" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
+              <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -89,26 +101,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/gov/js/front/servlet/ArticleServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
+            <state relative-caret-position="1026">
               <caret line="84" column="58" selection-start-line="84" selection-start-column="51" selection-end-line="84" selection-end-column="58" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/WEB-INF/report/reportAdd1.jsp">
+        <entry file="file://$PROJECT_DIR$/src/gov/js/front/servlet/IndexServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1425">
-              <caret line="48" selection-start-line="48" selection-end-line="48" />
+            <state relative-caret-position="19">
+              <caret line="146" selection-start-line="146" selection-end-line="147" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../JSAdmin/src/gov/js/admin/servlet/IndexServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="26" column="22" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/WEB-INF/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2128">
-              <caret line="112" column="61" selection-start-line="112" selection-start-column="54" selection-end-line="112" selection-end-column="61" />
+            <state relative-caret-position="342">
+              <caret line="42" column="50" lean-forward="true" selection-start-line="42" selection-start-column="50" selection-end-line="42" selection-end-column="50" />
               <folding>
                 <element signature="n#style#0;n#input#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#input#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -119,11 +140,6 @@
               </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/WEB-INF/loading.jsp">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -207,7 +223,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../JSAdmin/src/gov/js/admin/servlet/ArticleServlet.java" />
         <option value="$PROJECT_DIR$/../JSAdmin/web/WEB-INF/article/articleView.jsp" />
         <option value="$PROJECT_DIR$/../JSDAO/src/gov/js/dao/ReportDAO.java" />
         <option value="$PROJECT_DIR$/../JSService/src/gov/js/service/NoticeService.java" />
@@ -215,7 +230,6 @@
         <option value="$PROJECT_DIR$/../JSAdmin/web/WEB-INF/report/reportList.jsp" />
         <option value="$PROJECT_DIR$/../JSDAO/src/gov/js/dao/ArticleDAO.java" />
         <option value="$PROJECT_DIR$/../JSAdmin/web/WEB-INF/report/notResidentAdd4xls.jsp" />
-        <option value="$PROJECT_DIR$/src/gov/js/front/servlet/IndexServlet.java" />
         <option value="$PROJECT_DIR$/../JSDTO/src/gov/js/dto/NotResidentDTO.java" />
         <option value="$PROJECT_DIR$/../JSAdmin/src/gov/js/admin/servlet/ReportServlet.java" />
         <option value="$PROJECT_DIR$/../JSDAO/src/gov/js/dao/NotResidentDAO.java" />
@@ -238,7 +252,6 @@
         <option value="$PROJECT_DIR$/../JSDTO/src/gov/js/dto/AdminUserDTO.java" />
         <option value="$PROJECT_DIR$/../JSAdmin/src/gov/js/admin/utils/AdminUtils.java" />
         <option value="$PROJECT_DIR$/../JSAdmin/src/gov/js/admin/servlet/BaseServlet.java" />
-        <option value="$PROJECT_DIR$/../JSAdmin/src/gov/js/admin/servlet/IndexServlet.java" />
         <option value="$PROJECT_DIR$/../JSAdmin/src/gov/js/admin/servlet/TestScServlet.java" />
         <option value="$PROJECT_DIR$/../JSDAO/src/dbcp2.properties" />
         <option value="$PROJECT_DIR$/../JSDTO/src/gov/js/dto/AdminLogDTO.java" />
@@ -256,8 +269,11 @@
         <option value="$PROJECT_DIR$/web/WEB-INF/application/applicationAdd.jsp" />
         <option value="$PROJECT_DIR$/web/WEB-INF/report/reportAdd1.jsp" />
         <option value="$PROJECT_DIR$/web/WEB-INF/report/reportAdd2.jsp" />
-        <option value="$PROJECT_DIR$/../JSAdmin/web/WEB-INF/index.jsp" />
+        <option value="$PROJECT_DIR$/src/gov/js/front/servlet/IndexServlet.java" />
         <option value="$PROJECT_DIR$/web/WEB-INF/index.jsp" />
+        <option value="$PROJECT_DIR$/../JSAdmin/src/gov/js/admin/servlet/IndexServlet.java" />
+        <option value="$PROJECT_DIR$/../JSAdmin/web/WEB-INF/index.jsp" />
+        <option value="$PROJECT_DIR$/../JSAdmin/web/WEB-INF/Login.jsp" />
       </list>
     </option>
   </component>
@@ -309,6 +325,23 @@
             <path>
               <item name="JSFront" type="b2602c69:ProjectViewProjectNode" />
               <item name="JSAdmin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSFront" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSAdmin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSFront" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSAdmin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSFront" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSAdmin" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -350,34 +383,6 @@
               <item name="web" type="462c0819:PsiDirectoryNode" />
               <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="JSFront" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSFront" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="application" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSFront" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSFront" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="article" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSFront" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSFront" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="notice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSFront" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSFront" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="report" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -400,20 +405,20 @@
     <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/web/WEB-INF/lib/poi-3.17.jar" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ideaWorkSpace\govjs\JSFront\web\WEB-INF\notice" />
+      <recent name="D:\ideaWorkSpace\govjs\JSAdmin\web\WEB-INF" />
+      <recent name="D:\ideaWorkSpace\govjs\JSFront\web\WEB-INF" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="gov.js.admin.servlet" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Idea\jsDemo\JSAdmin\web\images" />
       <recent name="E:\Idea\jsDemo\JSAdmin\web\WEB-INF\upload" />
       <recent name="E:\Idea\jsDemo\JSAdmin\web\upload" />
       <recent name="D:\ideaWorkSpace\govjs\JSAdmin\web\WEB-INF\company" />
       <recent name="D:\ideaWorkSpace\govjs\JSAdmin\web\WEB-INF\report" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="gov.js.admin.servlet" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\ideaWorkSpace\govjs\JSFront\web\WEB-INF\notice" />
-      <recent name="D:\ideaWorkSpace\govjs\JSAdmin\web\WEB-INF" />
-      <recent name="D:\ideaWorkSpace\govjs\JSFront\web\WEB-INF" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -537,17 +542,18 @@
       </method>
     </configuration>
     <configuration name="Tomcat 9.0.20" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.20" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
-      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8082/JSAdmin/" />
-      <option name="UPDATING_POLICY" value="restart-server" />
+      <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=UTF-8" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
       <deployment>
-        <artifact name="JSAdmin:war">
+        <artifact name="JSAdmin:war exploded">
           <settings>
             <option name="CONTEXT_PATH" value="/JSAdmin" />
           </settings>
         </artifact>
-        <artifact name="JSFront:war">
+        <artifact name="JSFront:war exploded">
           <settings>
-            <option name="CONTEXT_PATH" value="/JSFront_war" />
+            <option name="CONTEXT_PATH" value="/JSFront" />
           </settings>
         </artifact>
       </deployment>
@@ -645,8 +651,8 @@
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="JSAdmin:war" />
-          <artifact name="JSFront:war" />
+          <artifact name="JSAdmin:war exploded" />
+          <artifact name="JSFront:war exploded" />
         </option>
       </method>
     </configuration>
@@ -748,7 +754,7 @@
       <workItem from="1560068388753" duration="281000" />
       <workItem from="1560159674223" duration="10027000" />
       <workItem from="1560172372234" duration="5681000" />
-      <workItem from="1560211560955" duration="3115000" />
+      <workItem from="1560211560955" duration="5714000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <created>1560169460513</created>
@@ -757,7 +763,14 @@
       <option name="project" value="LOCAL" />
       <updated>1560169460513</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="hotRestartTest">
+      <created>1560215533923</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1560215533923</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -793,7 +806,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="629695000" />
+    <option name="totallyTimeSpent" value="632294000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -806,6 +819,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49858356" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -821,8 +835,8 @@
       <window_info anchor="bottom" id="JRebel Executor" order="2" sideWeight="0.78686327" weight="0.3286119" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" weight="0.20679887" />
-      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.49932975" visible="true" weight="0.33994335" />
-      <window_info anchor="bottom" id="Debug" order="6" weight="0.2917847" />
+      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.49932975" weight="0.33994335" />
+      <window_info anchor="bottom" id="Debug" order="6" visible="true" weight="0.2917847" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="9" weight="0.3286119" />
@@ -848,48 +862,6 @@
       <window_info anchor="right" id="Maven" order="10" />
       <window_info anchor="right" id="JRebel Setup Guide" order="11" weight="0.3297587" />
     </layout>
-    <layout-to-restore>
-      <window_info id="JRebel" order="0" side_tool="true" weight="0.3297587" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.49858356" weight="0.24664879" />
-      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="3" />
-      <window_info id="Image Layers" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" sideWeight="0.5009141" side_tool="true" weight="0.25" />
-      <window_info id="Web" order="7" sideWeight="0.50141644" side_tool="true" weight="0.24664879" />
-      <window_info id="Capture Tool" order="8" />
-      <window_info anchor="bottom" id="Problems" order="0" />
-      <window_info anchor="bottom" id="JRebel Console" order="1" sideWeight="0.50067025" side_tool="true" visible="true" weight="0.33994335" />
-      <window_info anchor="bottom" id="JRebel Executor" order="2" sideWeight="0.78686327" weight="0.3286119" />
-      <window_info anchor="bottom" id="Message" order="3" />
-      <window_info anchor="bottom" id="Find" order="4" weight="0.20679887" />
-      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.49932975" visible="true" weight="0.33994335" />
-      <window_info anchor="bottom" id="Debug" order="6" weight="0.39943343" />
-      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="9" weight="0.3286119" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32965517" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.33002833" />
-      <window_info anchor="bottom" id="Java Enterprise" order="12" />
-      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="14" weight="0.3286119" />
-      <window_info anchor="bottom" id="REST Client" order="15" weight="0.43724138" />
-      <window_info anchor="bottom" id="Event Log" order="16" side_tool="true" />
-      <window_info anchor="bottom" id="Docker" order="17" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Application Servers" order="18" sideWeight="0.49932975" weight="0.3286119" />
-      <window_info anchor="right" id="JRebel Setup Guide" order="0" weight="0.3297587" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info anchor="right" id="Maven Projects" order="9" />
-      <window_info anchor="right" id="SciView" order="10" />
-      <window_info anchor="right" id="Maven" order="11" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -906,15 +878,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Init" />
-    <option name="LAST_COMMIT_MESSAGE" value="Init" />
+    <MESSAGE value="hotRestartTest" />
+    <option name="LAST_COMMIT_MESSAGE" value="hotRestartTest" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../JSAdmin/src/test/gov/js/admin/utils/WcfAPITest.java" />
-    <entry file="file://$PROJECT_DIR$/../JSDAO/src/test/gov/js/dao/RoleDAOTest.java" />
     <entry file="file://$PROJECT_DIR$/../JSService/src/test/gov/js/service/ReportServiceTest.java" />
     <entry file="file://$PROJECT_DIR$/../JSAdmin/src/gov/js/admin/servlet/TestScServlet.java" />
     <entry file="file://$PROJECT_DIR$/../JSTools/src/gov/js/tools/PagerTag.java">
@@ -945,13 +916,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JSAdmin/src/gov/js/admin/servlet/IndexServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="55" column="17" lean-forward="true" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -1178,7 +1142,7 @@
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/application/applicationAdd.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-251">
-          <caret line="81" column="16" lean-forward="true" selection-start-line="81" selection-start-column="16" selection-end-line="81" selection-end-column="16" />
+          <caret line="81" column="16" selection-start-line="81" selection-start-column="16" selection-end-line="81" selection-end-column="16" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
@@ -1199,38 +1163,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/gov/js/front/servlet/ArticleServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="84" column="58" selection-start-line="84" selection-start-column="51" selection-end-line="84" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JSAdmin/web/WEB-INF/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="104" column="13" lean-forward="true" selection-start-line="104" selection-start-column="13" selection-end-line="104" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/gov/js/front/servlet/ApplicationServlet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-458">
-          <caret line="18" column="47" lean-forward="true" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
+          <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/article/article.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
-          <caret line="63" column="25" lean-forward="true" selection-start-line="63" selection-start-column="25" selection-end-line="63" selection-end-column="25" />
+          <caret line="63" column="25" selection-start-line="63" selection-start-column="25" selection-end-line="63" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gov/js/front/servlet/ArticleServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="84" column="58" selection-start-line="84" selection-start-column="51" selection-end-line="84" selection-end-column="58" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2128">
-          <caret line="112" column="61" selection-start-line="112" selection-start-column="54" selection-end-line="112" selection-end-column="61" />
+        <state relative-caret-position="342">
+          <caret line="42" column="50" lean-forward="true" selection-start-line="42" selection-start-column="50" selection-end-line="42" selection-end-column="50" />
           <folding>
             <element signature="n#style#0;n#input#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#input#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1239,6 +1196,34 @@
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gov/js/front/servlet/IndexServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="146" selection-start-line="146" selection-end-line="147" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JSAdmin/src/gov/js/admin/servlet/IndexServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="26" column="22" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JSAdmin/web/WEB-INF/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1425">
+          <caret line="75" lean-forward="true" selection-start-line="75" selection-end-line="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JSAdmin/web/WEB-INF/Login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-120">
+          <caret line="83" column="18" selection-start-line="83" selection-start-column="18" selection-end-line="83" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -1260,13 +1245,13 @@
         <settings>
           <artifact-editor>
             <show-content>
-              <type id="library" />
               <type id="jpa-descriptors" />
               <type id="javaee-facet-resources" />
+              <type id="library" />
               <type id="artifact" />
             </show-content>
           </artifact-editor>
-          <last-edited>JSFront:war</last-edited>
+          <last-edited>JSFront:war exploded</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
