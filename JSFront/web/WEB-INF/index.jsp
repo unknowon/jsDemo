@@ -12,17 +12,7 @@
 <header class="navbar-wrapper theader" style="height: 114px !important;">
     <div class="navbar" style="height: 70px">
 
-        <div class="headright">
-            <a <c:choose><c:when test="${empty frontCompany}"><c:out value="href=Index?action=login"></c:out></c:when><c:otherwise><c:out value="href=Index?action=center"></c:out></c:otherwise></c:choose>>
-	                <span class="label label-success radius" style="font-weight: normal;font-size: 14px">
-                        <c:choose><c:when test="${empty frontCompany}"><c:out value="登陆"></c:out></c:when><c:otherwise>${frontCompany.name}</c:otherwise></c:choose>
-                    </span>
-            </a>
-            <c:choose><c:when test="${empty frontCompany}"></c:when><c:otherwise><a href="Index?action=logout"><span class='label label-success radius' style='font-weight: normal;font-size: 14px'>退出登录</span></a></c:otherwise></c:choose>
-            <a href="/JSAdmin/Index?action=login">
-                <span class="label label-warning radius" style="font-weight: normal;font-size: 14px">后台管理</span>
-            </a>
-        </div>
+
 
     </div>
     <div class="navbar">
@@ -72,11 +62,11 @@
             </div>
             <div class="col-xs-12 col-sm-6">
                 <div>
-
-                    <input type="text" placeholder="输入关键字进行搜索" class="input-text radius size-L"
+                  <h3>论文推荐</h3>
+                    <%--<input type="text" placeholder="输入关键字进行搜索" class="input-text radius size-L"
                            style="width: 80%;float: left;border-top-right-radius: 0px;border-bottom-right-radius: 0px;background:none ">
                     <input class="btn radius btn-secondary size-L" type="button" value="搜索"
-                           style="width: 20%;border-top-left-radius: 0px;border-bottom-left-radius: 0px;">
+                           style="width: 20%;border-top-left-radius: 0px;border-bottom-left-radius: 0px;">--%>
                 </div>
                 <div class="Hui-tags" STYLE="border: none">
 
